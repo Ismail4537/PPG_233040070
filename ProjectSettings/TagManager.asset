@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Lemon
   - Ground
+  - Hewan
+  - Tumbuhan
   layers:
   - Default
   - TransparentFX
